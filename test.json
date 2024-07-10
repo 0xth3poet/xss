@@ -1,0 +1,9 @@
+{
+    "url": "https://0xmalwiya.github.io/xss/test.yaml",
+    "urls": [
+        {
+            "url": "https://0xmalwiya.github.io/xss/test.yaml",
+            "name": "Foo"
+        }
+    ]
+}
