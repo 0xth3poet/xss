@@ -1,0 +1,11 @@
+swagger: '2.0'
+info:
+  version: 1.0.0
+  title: iframe Injection
+  description: '<iframe src="https://example.com/malicious-iframe" width="100%" height="500"></iframe>'
+paths:
+  /:
+    get:
+      responses:
+        '200':
+          description: iframe injected
